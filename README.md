@@ -29,4 +29,4 @@ A donde sea que pueda aportar soluciones a través del código. Creo que el dest
 
 ### 📬 Contacto 
 ##### Email: eduardo.fco.laredo.mateos@gmail.com
-##### LinkedIn: https://www.linkedin.com/in/eduardo-laredo-07644a231/
+##### LinkedIn: https://www.linkedin.com/in/eduardo-laredo/
